@@ -8,9 +8,8 @@ body{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   height: 297px;
   width: 1280px;
-  background-size: contain;
-  background-position: center;
-  background-size: contain;
+  background-size: cover;
+  background-position: center top;
   background-repeat: no-repeat;
 }
 
@@ -30,4 +29,19 @@ ul{
 h2{
   font-size: 32px;
   font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+#second-banner{
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: center bottom;
 }
