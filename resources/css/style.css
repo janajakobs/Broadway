@@ -59,6 +59,8 @@ p{
   background-color: dimgray;
   color: white;
   font-size: 11px;
+  width: 1270px;
+  text-align: left;
 }
 
 .second-navigation{
@@ -68,4 +70,5 @@ p{
 
 .second-navigation a:link{
   color: white;
+  font size: 11px;
 }
