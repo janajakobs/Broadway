@@ -24,6 +24,15 @@ ul{
   text-decoration: underline;
   font-size: 18px;
   line-height: 2em;
+  color: inherit;
+}
+
+.important{
+  color: white;
+}
+
+.important a:link{
+  color: white;
 }
 
 h2{
@@ -44,4 +53,15 @@ p{
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-position: center bottom;
+}
+
+#footer{
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+
+
+nav{
+  color: inherit;
 }
