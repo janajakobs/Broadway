@@ -61,7 +61,11 @@ p{
   font-size: 11px;
 }
 
+.second-navigation{
+  color: white;
+  position: absolute;
+}
 
-nav{
-  color: inherit;
+.second-navigation a:link{
+  color: white;
 }
